@@ -1,0 +1,422 @@
+
+
+*******************************************************************************
+Thu Oct 22 06:19:06 2026
+
+
+FIT:    data read from 'pulse.txt' using 1:2
+        format = x:z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a*x+b
+fitted parameters initialized with current variable values
+
+Warning: Initial value of parameter 'b' is zero.
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4723128209e+06   0.00e+00  4.95e+02    1.000000e+00   1.000000e-30
+BREAK: Singular matrix in Invert_RtR
+
+*******************************************************************************
+Thu Oct 22 06:20:08 2026
+
+
+FIT:    data read from 'pulse.txt' using 1:2
+        format = x:z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4760774389e+06   0.00e+00  4.95e+02    1.000000e+00   1.000000e+00
+   7 2.3596610532e-05  -5.73e-06  4.95e-05    9.665032e-05   3.066916e-03
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 2.35966e-05
+rel. change during last iteration : -5.73021e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00485763
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.35966e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 9.66503e-05      +/- 8.971e-06    (9.282%)
+b               = 0.00306692       +/- 0.006285     (204.9%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.895  1.000 
+
+
+*******************************************************************************
+Thu Oct 22 06:29:23 2026
+
+
+FIT:    data read from 'pulse.txt' using 1:2
+        format = x:z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4760774389e+06   0.00e+00  4.95e+02    1.000000e+00   1.000000e+00
+   7 2.3596610532e-05  -5.73e-06  4.95e-05    9.665032e-05   3.066916e-03
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 2.35966e-05
+rel. change during last iteration : -5.73021e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00485763
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.35966e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 9.66503e-05      +/- 8.971e-06    (9.282%)
+b               = 0.00306692       +/- 0.006285     (204.9%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.895  1.000 
+
+
+*******************************************************************************
+Thu Oct 22 06:29:30 2026
+
+
+FIT:    data read from 'pulse.txt' using 1:2
+        format = x:z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4760774389e+06   0.00e+00  4.95e+02    1.000000e+00   1.000000e+00
+   7 2.3596610532e-05  -5.73e-06  4.95e-05    9.665032e-05   3.066916e-03
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 2.35966e-05
+rel. change during last iteration : -5.73021e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00485763
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.35966e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 9.66503e-05      +/- 8.971e-06    (9.282%)
+b               = 0.00306692       +/- 0.006285     (204.9%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.895  1.000 
+
+
+*******************************************************************************
+Thu Oct 22 06:29:54 2026
+
+
+FIT:    data read from 'pulse.txt' using 1:2
+        format = x:z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4760774389e+06   0.00e+00  4.95e+02    1.000000e+00   1.000000e+00
+   7 2.3596610532e-05  -5.73e-06  4.95e-05    9.665032e-05   3.066916e-03
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 2.35966e-05
+rel. change during last iteration : -5.73021e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00485763
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.35966e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 9.66503e-05      +/- 8.971e-06    (9.282%)
+b               = 0.00306692       +/- 0.006285     (204.9%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.895  1.000 
+
+
+*******************************************************************************
+Thu Oct 22 06:30:22 2026
+
+
+FIT:    data read from 'pulse.txt' using 1:2
+        format = x:z
+        #datapoints = 3
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.4760774389e+06   0.00e+00  4.95e+02    1.000000e+00   1.000000e+00
+   7 2.3596610532e-05  -5.73e-06  4.95e-05    9.665032e-05   3.066916e-03
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 2.35966e-05
+rel. change during last iteration : -5.73021e-11
+
+degrees of freedom    (FIT_NDF)                        : 1
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.00485763
+variance of residuals (reduced chisquare) = WSSR/ndf   : 2.35966e-05
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 9.66503e-05      +/- 8.971e-06    (9.282%)
+b               = 0.00306692       +/- 0.006285     (204.9%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.895  1.000 
+
+
+*******************************************************************************
+Thu Oct 22 07:12:34 2026
+
+
+FIT:    data read from 'pulse.txt' using 1:2
+        format = x:z
+        #datapoints = 2
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.2466843264e+06   0.00e+00  5.58e+02    1.000000e+00   1.000000e+00
+   8 0.0000000000e+00  -inf       5.58e-06    1.054092e-04  -4.944521e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -1.25082e-26
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 0.000105409    
+b               = -0.00494452    
+
+
+*******************************************************************************
+Thu Oct 22 07:12:41 2026
+
+
+FIT:    data read from 'pulse.txt' using 1:2
+        format = x:z
+        #datapoints = 2
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.2466843264e+06   0.00e+00  5.58e+02    1.000000e+00   1.000000e+00
+   8 0.0000000000e+00  -inf       5.58e-06    1.054092e-04  -4.944521e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -1.25082e-26
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 0.000105409    
+b               = -0.00494452    
+
+
+*******************************************************************************
+Thu Oct 22 07:15:01 2026
+
+
+FIT:    data read from 'pulse.txt' using 1:2
+        format = x:z
+        #datapoints = 2
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.2466843264e+06   0.00e+00  5.58e+02    1.000000e+00   1.000000e+00
+   8 0.0000000000e+00  -inf       5.58e-06    1.054092e-04  -4.944521e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -1.25082e-26
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 0.000105409    
+b               = -0.00494452    
+
+
+*******************************************************************************
+Thu Oct 22 07:15:45 2026
+
+
+FIT:    data read from 'pulse.txt' using 1:2
+        format = x:z
+        #datapoints = 2
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.2466843264e+06   0.00e+00  5.58e+02    1.000000e+00   1.000000e+00
+   8 0.0000000000e+00  -inf       5.58e-06    1.054092e-04  -4.944521e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -1.25082e-26
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 0.000105409    
+b               = -0.00494452    
+
+
+*******************************************************************************
+Thu Oct 22 07:19:55 2026
+
+
+FIT:    data read from 'pulse.txt' using 1:2
+        format = x:z
+        #datapoints = 2
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.2467443851e+06   0.00e+00  5.58e+02    1.000000e+00   1.000000e+00
+  10 1.2037062152e-35   0.00e+00  5.58e-08    7.905687e-05  -2.958391e-03
+
+After 10 iterations the fit converged.
+final sum of squares of residuals : 1.20371e-35
+abs. change during last iteration : 0
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 7.90569e-05    
+b               = -0.00295839    
+
+
+*******************************************************************************
+Thu Oct 22 07:28:42 2026
+
+
+FIT:    data read from 'pulse.txt' using 1:2
+        format = x:z
+        #datapoints = 2
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.2468228944e+06   0.00e+00  5.58e+02    1.000000e+00   1.000000e+00
+   8 0.0000000000e+00  -inf       5.58e-06    3.883495e-05   4.757282e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -1.22679e-26
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 3.8835e-05     
+b               = 0.00475728     
+
+
+*******************************************************************************
+Thu Oct 22 07:29:00 2026
+
+
+FIT:    data read from 'pulse.txt' using 1:2
+        format = x:z
+        #datapoints = 2
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a*x+b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 1.2468228944e+06   0.00e+00  5.58e+02    1.000000e+00   1.000000e+00
+   8 0.0000000000e+00  -inf       5.58e-06    3.883495e-05   4.757282e-03
+
+After 8 iterations the fit converged.
+final sum of squares of residuals : 0
+abs. change during last iteration : -1.22679e-26
+
+
+Exactly as many data points as there are parameters.
+In this degenerate case, all errors are zero by definition.
+
+Final set of parameters 
+======================= 
+
+a               = 3.8835e-05     
+b               = 0.00475728     
